@@ -1,2 +1,3 @@
 # OctoprintInstaller
-A power shell to help quickly setup octoprint on windows
+A batch file to help quickly setup/update octoprint on windows
+'Run as Administrator' required
